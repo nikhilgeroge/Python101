@@ -4,7 +4,7 @@ l1=[];
 l1.append(l[0]);
 l.append(5);
 new=int(input("enter a number"));
-l1.append(f);
+l1.append(new);
 print(l);
 print(1);
 
