@@ -7,9 +7,9 @@ count=0
 
 if n <=0:
   print("Enter a postive integer")
-elif n==1
+elif n==1:
   print("Fibonacci Series:"n1)
-else
+else:
   print("Fiboncci series:")
    whilecount<n:
    print(n1)
