@@ -6,7 +6,7 @@ l.append(5);
 new=int(input("enter a number"));
 l1.append(new);
 print(l);
-print(1);
+print(l1);
 
 
 #Tuple 
